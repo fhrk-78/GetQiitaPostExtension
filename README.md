@@ -1,2 +1,3 @@
 # GetQiitaPostExtension
-TurboWarp CustomExtension
+Use on TurboWarp
+URL: ``
