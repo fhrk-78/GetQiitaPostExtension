@@ -1,0 +1,2 @@
+# GetQiitaPostExtension
+TurboWarp CustomExtension
